@@ -6,6 +6,8 @@
 // Adapted for use on Basys 3 FPGA with Xilinx Artix-7
 // by: David J. Marion aka FPGA Dude
 
+
+
 module ascii_test(
     input clk,
     input video_on,
